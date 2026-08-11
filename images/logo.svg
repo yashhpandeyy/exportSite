@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <rect x="4" y="4" width="232" height="232" rx="8" fill="#FAF9F5" stroke="#141B2E" stroke-width="3"/>
+  <!-- Ream of paper suggestion: stacked offset squares -->
+  <rect x="52" y="96" width="120" height="86" fill="#FAF9F5" stroke="#141B2E" stroke-width="3"/>
+  <rect x="44" y="86" width="120" height="86" fill="#FAF9F5" stroke="#141B2E" stroke-width="3"/>
+  <rect x="36" y="76" width="120" height="86" fill="#FAF9F5" stroke="#141B2E" stroke-width="3"/>
+  <!-- Horizon line cutting across the ream -->
+  <line x1="20" y1="119" x2="196" y2="119" stroke="#A9784A" stroke-width="6"/>
+  <!-- Sun/roll disc on the horizon -->
+  <circle cx="150" cy="119" r="17" fill="#A9784A"/>
+  <text x="120" y="214" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#141B2E" text-anchor="middle" letter-spacing="2">EVERHORIZON</text>
+</svg>
