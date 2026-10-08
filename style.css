@@ -1132,9 +1132,11 @@ footer ul a:hover { color: #ffffff; }
   .desk-only-cta { display: none; }
   .mobile-menu-toggle { display: flex; }
   
-  .hero .wrap { grid-template-columns: 1fr; gap: 32px; }
-  .hero-figure { order: -1; max-height: 340px; aspect-ratio: auto; min-height: 260px; }
-  .hero-figure .hero-logo-emblem { max-width: 200px; }
+  .hero .wrap { grid-template-columns: 1fr; gap: 0; }
+  section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2),
+  .hero-figure {
+    display: none !important;
+  }
   
   .spec-strip .wrap { grid-template-columns: repeat(2, 1fr); }
   .spec-item:nth-child(3) { border-left: none; }
