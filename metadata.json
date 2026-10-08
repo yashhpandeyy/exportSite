@@ -1,0 +1,8 @@
+{
+  "name": "EverHorizon Exim",
+  "description": "EverHorizon Exim exports and supplies LD & HDPE, Glass Fiber & GFRP composites, Virgin Paper Rolls (70, 75, 80 GSM), Sortex Jeera, and Dal Pulses with custom requirement sourcing worldwide from Gujarat, India.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
